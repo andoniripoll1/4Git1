@@ -15,6 +15,7 @@ namespace _4Git1
         public Form1()
         {
             InitializeComponent();
+            //Esta es una prueba para ver el merge
         }
     }
 }
